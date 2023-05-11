@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6, #home .heading strong {
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #FFD500;
+	color: #86b30b;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -120,7 +120,7 @@ a {
 	transition: all 0.2s linear;
 }
 a:hover {
-	color: #000;
+	color: #e24a4a;
 	text-decoration: none;
 }
 .btn {
